@@ -65,7 +65,8 @@ The script follows these main steps:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgments
 
 This project was developed as part of the "Python Project for Data Engineering" course by IBM on Coursera.
