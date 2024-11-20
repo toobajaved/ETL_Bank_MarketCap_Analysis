@@ -10,7 +10,6 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline developed i
 - Usage
 - Code Explanation
 - License
-- Acknowledgments
 
 ## Project Overview
 
